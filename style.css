@@ -1,0 +1,44 @@
+songs{
+    font-family: avenir;
+    font-size: 15px;
+    background-color: #d6d1f0;
+}
+
+name{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    color: #43319e;
+
+}
+
+h1{
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    color: #231661;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+title{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    display: block;
+    padding: 20px;
+}
+
+artist, year {
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 600px;
+    padding-bottom: 5px;
+}
+
+
