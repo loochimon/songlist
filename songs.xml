@@ -7,19 +7,19 @@
         <song>
             <title> Sunflower </title>
             <artist> Artist: Mall Grab </artist>
-            <year> 2020 </year>
+            <year> Year: 2020 </year>
         </song>
 
         <song>
             <title> The Bells </title>
             <artist> Artist: Jeff Mills </artist>
-            <year> 1996 </year>
+            <year> Year: 1996 </year>
         </song>
 
         <song>
             <title> The Astrologist </title>
             <artist> Artist: Wrong Assessment </artist>
-            <year> 2020 </year>
+            <year> Year: 2020 </year>
         </song>
     </group> 
 
@@ -28,25 +28,25 @@
         <song>
             <title> Air </title>
             <artist> Artist: Janeret </artist>
-            <year> 2016 </year>
+            <year> Year: 2016 </year>
         </song>
 
         <song>
             <title> Untitled 02 </title>
             <artist> Artist: Unknown artist </artist>
-            <year> 2018 </year>
+            <year> Year: 2018 </year>
         </song>
 
         <song>
             <title> Borderline </title>
             <artist> Artist: Di Barsotti </artist>
-            <year> 2019 </year>
+            <year> Year: 2019 </year>
         </song>
 
         <song>
             <title> Misbits </title>
             <artist> Artist: Toman </artist>
-            <year> 2020 </year>
+            <year> Year: 2020 </year>
         </song>
     </group> 
 
@@ -55,19 +55,19 @@
         <song>
             <title> Misty </title>
             <artist> Artist: Erroll Garner </artist>
-            <year> 1959 </year>
+            <year> Year: 1959 </year>
         </song>
 
         <song>
             <title> Jordu </title>
             <artist> Artist: Duke Jordan </artist>
-            <year> 1953 </year>
+            <year> Year: 1953 </year>
         </song>
 
         <song>
             <title> Take the 'A' Train </title>
             <artist> Artist: Billy Strayhorn </artist>
-            <year> 1939 </year>
+            <year> Year: 1939 </year>
         </song>
     </group>
 </songs>
